@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://github.com/Bhogayata-Keval">
-  <img align="center" height="180px" style="margin-right:10px" src="https://github-readme-stats.vercel.app/api?username=imbdb&count_private=true&show_icons=true&theme=dark" />
+  <img align="center" height="180px" style="margin-right:10px" src="https://github-readme-stats.vercel.app/api?username=Bhogayata-Keval&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/Bhogayata-Keval">
   <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhogayata-Keval&hide=php,java&layout=compact&theme=dark" />
